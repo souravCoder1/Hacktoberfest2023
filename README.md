@@ -2,7 +2,7 @@
 ![HacktoberFest 2021](https://github.com/ossamamehmood/Hacktoberfest2022/raw/main/.github/logo.png)
 
 
-## Contributors of `Hacktoberfest 2022`
+## Contributors of `Hacktoberfest 2023`
 
 <div align="center">
 
